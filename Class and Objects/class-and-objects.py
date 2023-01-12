@@ -54,5 +54,3 @@ vehicle2.name = 'City'
 vehicle2.model = '2023'
 vehicle2.shape = 'SUV'
 vehicle2.display()
-
-
